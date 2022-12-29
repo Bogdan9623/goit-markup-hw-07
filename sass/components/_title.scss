@@ -1,0 +1,4 @@
+.title {
+    @include font(700, 36px, 1.17, null);
+    color: var(--primary-title-colour);
+}
